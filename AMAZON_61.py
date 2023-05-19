@@ -1,4 +1,4 @@
-def max_distance(n, seats):
+def max_distance(n, seats)
     left = [-1] * n  # stores the closest person to the left of the seat
     right = [-1] * n  # stores the closest person to the right of the seat
    
